@@ -1,23 +1,22 @@
-# Learn.co Educational Content License
 
-Copyright (c) 2022 Flatiron School, Inc
+### Explanation of Sections:
 
-The Flatiron School, Inc. owns this Educational Content. However, the Flatiron
-School supports the development and availability of educational materials in the
-public domain. Therefore, the Flatiron School grants Users of the Flatiron
-Educational Content set forth in this repository certain rights to reuse, build
-upon and share such Educational Content subject to the terms of the Educational
-Content License set forth [here](http://learn.co/content-license)
-(http://learn.co/content-license). You must read carefully the terms and
-conditions contained in the Educational Content License as such terms govern
-access to and use of the Educational Content.
+1. **Features**: Lists the main features of the project, including user registration, login, adding food items, creating orders, and listing food items.
 
-Flatiron School is willing to allow you access to and use of the Educational
-Content only on the condition that you accept all of the terms and conditions
-contained in the Educational Content License set forth
-[here](http://learn.co/content-license) (http://learn.co/content-license). By
-accessing and/or using the Educational Content, you are agreeing to all of the
-terms and conditions contained in the Educational Content License. If you do not
-agree to any or all of the terms of the Educational Content License, you are
-prohibited from accessing, reviewing or using in any way the Educational
-Content.
+2. **Prerequisites**: Lists the software required to run the project, including Python and necessary packages.
+
+3. **Project Setup**: Provides steps to set up and run the project, including cloning the repository, initializing the database, and running the app.
+
+4. **Menu Options**: Describes the options available in the command-line interface once the app is running.
+
+5. **Example Interaction**: Shows what a user might experience when interacting with the system.
+
+6. **Database Structure**: Explains the database tables used by the project and their purpose.
+
+7. **Code Overview**: Briefly describes the files and libraries used in the project.
+
+8. **Contributions**: Encourages contributions to the project and provides guidance on how to contribute.
+
+9. **License**: Information about the licensing of the project (you can modify this based on your preference or remove if not necessary).
+
+This `README.md` provides a comprehensive guide to understanding, setting up, and running your food ordering system.
